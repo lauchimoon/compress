@@ -1,2 +1,2 @@
 # compress
-A shot at compression algorithms.
+Giving a few compression algorithms a shot.
